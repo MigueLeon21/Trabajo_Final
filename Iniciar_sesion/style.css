@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+    background: #222;
+    color: #eee;
+}
+form{
+    background: transparent;
+    max-width: 500px;
+    margin: auto;
+    box-shadow: 0 0 45px #000;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+h2{
+    text-align: center;
+    padding-top: 20px ;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 24px;
+}
+input{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 6px 12px;
+    border: none;
+    border: 2px solid #4f9;
+    box-shadow: 0 0 45px #0002;
+    background: transparent;
+    color: #eee;
+    border-radius: 10px;
+    resize: vertical;
+}
+.form_input{
+    padding: 10px 20px;
+}
+
+label{
+    font-size: 0.9em;
+    line-height: 3;
+}
+
+.checkbox{
+    height: 10px;
+    width: auto;
+}
+
+.condiciones{
+    display: inline-block;
+}
+
+.form_button{
+    color: #eee;
+    background: transparent;
+    width: 30%;
+    margin: auto;
+    margin-bottom: 30px;
+    display: inline-block;
+}

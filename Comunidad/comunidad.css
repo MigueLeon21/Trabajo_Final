@@ -1,0 +1,213 @@
+.elbody{
+    background: #222 ;
+}
+.navbar-brand img{
+    height: 40px;
+    width: 40px;
+}
+.navbar-brand{
+    font-family: "Ga MaamLi", sans-serif;
+}
+.contenedor1{
+    background: #d0c3c3;
+    width: 1000px;
+    height: 540px;
+    margin: auto;
+    margin-top: 80px;
+    border-radius: 15px;
+}
+.contenedor1 img{
+    width: 300px;
+    height: 200px;
+}
+.contenedor1 h1{
+    position: relative;
+    margin: auto;
+    text-align: center;
+}
+.h21{
+    position: relative;
+    left: 90px;
+}
+.h22{
+    position: relative;
+    display: inline-block;
+    left: 535px;
+    bottom: 46px;
+}
+.p1{
+    text-align: justify;
+    width: 400px;
+    height: 300px;
+    left: 40px;
+    bottom: 30px;
+    position: relative;
+    font-size: 14px;
+}
+
+.p2{
+    text-align: justify;
+    width: 400px;
+    height: 300px;
+    position: relative;
+    left: 530px;
+    bottom: 350px;
+    font-size: 14px;
+}
+
+.img1{
+    position: relative;
+    bottom: 480px;
+    left: 85px;
+}
+
+.img2{
+    position: relative;
+    bottom: 480px;
+    left: 260px;
+}
+
+.contenedor2{
+    background: #d0c3c3;
+    margin-top: 80px;
+    width: 600px;
+    height: 450px;
+    margin: auto;
+    margin-top: 80px;
+    box-sizing: border-box;
+    padding: 30px;
+    border-radius: 15px;
+}
+.contenedor2 h2{
+    position: relative;
+    left: 30px;
+}
+.contenedor2 p{
+    text-align: justify;
+    position: relative;
+
+}
+.contenedor2 img{
+    width: 300px;
+    height: 200px;
+    position: relative;
+    left: 120px;
+}
+
+/**/
+
+.contenedor3{
+    width: 1000px;
+    height: 650px;
+    background: #d0c3c3;
+    margin: auto;
+    margin-top: 50px;
+    box-sizing: border-box;
+    padding: 20px;
+    border-radius: 15px;
+
+}
+
+.contenedor3 img{
+    width: 250px;
+    height: 250px;
+}
+
+.contenedor3 h2{
+    position: relative;
+    text-align: center;
+}
+
+.h31{
+    position: relative;
+    left: 50px;
+    display: inline-block;
+    bottom: 80px;
+}
+
+.h32{
+    position: relative;
+    display: inline-block;
+    left: 200px;
+    bottom: 80px;
+}
+
+.h33{
+    position: relative;
+    display: inline-block;
+    left: 400px;
+    bottom:80px;
+}
+
+.img3{
+    position: relative;
+    right: 390px;
+    top: 80px;
+    display: inline-block;
+}
+.img4{
+    position: relative;
+    display: inline-block;
+    right: 325px;
+    top: 80px;
+}
+.img5{
+    position: relative;
+    display: inline-block;
+    bottom: 200px ;
+    left: 670px;
+}
+
+.contenedor3 p{
+    width: 270px;
+    height: 250px;
+}
+
+.p31{
+    text-align: justify;
+    position: relative;
+    display: inline-block;
+    right: 235px;
+    top: 90px;
+
+}
+.p32{
+    text-align: justify;
+    position: relative;
+    display: inline-block;
+    top: 90px;
+    right: 200px;
+
+}
+.p33{
+    text-align: justify;
+    position: relative;
+    display: inline-block;
+    left: 650px;
+    bottom: 190px;
+}
+
+.div8{
+    width: 100%;
+    height: 200px;
+    background: #003;
+    position: relative;
+    display: inline-block;
+    margin-top: 100px;
+}
+
+.div8 img{
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    position: relative;
+    left: 1200px;
+    top: 130px;
+}
+
+.div8 h3{
+    position: absolute;
+    color: #fff;
+    top: 130px;
+    left: 800px;
+}
